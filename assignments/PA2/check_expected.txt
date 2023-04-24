@@ -1,0 +1,11 @@
+#name "wrongID.cl"
+#1 LET
+#1 INT_CONST 1
+#1 OBJECTID addnode
+#1 ':'
+#1 TYPEID Node
+#1 ','
+#1 OBJECTID nil
+#1 ':'
+#1 TYPEID Node
+#1 IN

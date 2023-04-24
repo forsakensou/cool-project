@@ -1,0 +1,4 @@
+"(*hello*)"
+-- helloworld
+"--helloworld"
+"""
